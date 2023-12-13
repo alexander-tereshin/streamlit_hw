@@ -15,7 +15,7 @@ Installation
 1. Clone the repository:
 
 ```bash
-$ git clone https://github.com/alexander-tereshin/streamli_hw.git
+$ git clone https://github.com/alexander-tereshin/streamlit_hw.git
 ```
 2. Install the required dependencies:
 
