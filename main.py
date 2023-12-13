@@ -3,12 +3,10 @@ import time
 import os
 
 import pandas as pd
-import numpy as np
 import streamlit as st
 
 from PIL import Image
 from dotenv import load_dotenv, find_dotenv
-from sqlalchemy import create_engine
 
 from data_processor import MarketingCompanyPredictorPreprocessor
 
