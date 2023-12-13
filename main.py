@@ -85,7 +85,7 @@ def tabs(prediction_probas):
         prediction_probas = pd.DataFrame(data)
         st.write('**classification_report**')
         st.write(prediction_probas)
-        st.write('**Устарновленный порог**')
+        st.write('**Установленный порог**')
         st.write("* 0.13")
         st.write("**Качество модели**")
         st.write("* Accuracy: 0.639",'\n'
